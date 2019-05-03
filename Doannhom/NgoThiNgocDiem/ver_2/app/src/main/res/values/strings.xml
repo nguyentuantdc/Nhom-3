@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Đồng hồ</string>
-
-    <!--xu ly phan giao dien 1-->
-    <string name="lbl_ten">BÁO THỨC</string>
-</resources>
